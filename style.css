@@ -54,6 +54,11 @@
   box-shadow: 0 4px 8px 0 #ff323261;
 }
 
+a:link {
+  text-decoration: none;
+  color: #fff;
+}
+
 .first--poster--image img {
   width: 80%;
   height: auto;
