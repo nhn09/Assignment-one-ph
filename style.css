@@ -40,6 +40,7 @@
 
 .text--color {
   color: #fba24f;
+  
 }
 
 .button--decoration {
@@ -52,6 +53,11 @@
   font-weight: 500;
   font-size: 20px;
   box-shadow: 0 4px 8px 0 #ff323261;
+  
+}
+a:link {
+  text-decoration: none;
+  color: #fff;
 }
 
 a:link {
