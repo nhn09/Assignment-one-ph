@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Roboto Condensed";
+}
+
+/*
+
+body {
+  background-color: #060624;
+  background-color: #010107  #060624 #6D2ED4 
+}
+
+.navbar {
+  height: 10vh;
+  border-bottom: 1px solid #8e8d92;
+  display: flex;
+  align-items: center;
+}
+
+.navbar-planets {
+  color: #f1f2f7;
+  margin: 0 20px;
+}
+
+.navbar-allplanets {
+  font-size: 12px;
+  display: grid;
+  grid-gap: 16px;
+  grid-template: 20px / repeat(6, 1fr);
+  color: #f1f2f7;
+  margin-left: auto;
+}
+
+.navbar-allplanets > div:hover {
+  
+}
+/*
+
