@@ -40,7 +40,7 @@
 
 .text--color {
   color: #fba24f;
-  text-decoration: none;
+  
 }
 
 .button--decoration {
@@ -53,6 +53,7 @@
   font-weight: 500;
   font-size: 20px;
   box-shadow: 0 4px 8px 0 #ff323261;
+  text-decoration: none;
 }
 
 .first--poster--image img {
